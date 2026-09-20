@@ -1,68 +1,66 @@
 <div align="center">
-  
-# 👋 Olá, eu sou Guilherme Alves
 
-### Desenvolvedor em Transição | Especialista em PHP & Laravel
+# Olá, eu sou Guilherme Alves 👋
 
-</div>
+### Analista de Dados | Business Intelligence | Automação de Processos
 
-## 🚀 Sobre Mim
-
-Profissional de tecnologia em transição para desenvolvimento de software, com foco em soluções back-end robustas e escaláveis. Atualmente especializando-me em PHP e Laravel, buscando sempre as melhores práticas e padrões de desenvolvimento.
-
-- 💼 **Atuação:** Tecnologia da Informação → Desenvolvimento de Software
-- 🎯 **Foco Atual:** PHP, Laravel e arquitetura de aplicações web
-- 📚 **Aprendizado Contínuo:** Aprimorando habilidades em desenvolvimento back-end
-- 💡 **Interesses:** Clean Code, Design Patterns, APIs RESTful
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guihggs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guihggs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guihggs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🛠️ Stack Tecnológica
-
-<div align="center">
-  
-### Linguagens
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Ferramentas
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-
-</div>
-
-## 📫 Entre em Contato
-
-<div align="center">
+Transformo dados corporativos em informações confiáveis, indicadores e soluções que apoiam decisões e melhoram processos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermealvesss/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme19961985@hotmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guihggs/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guilherme_19200)
 
+</div>
+
+## Sobre mim
+
+Atuo com análise de dados e gestão de informações em ambientes corporativos, conectando visão de negócio, qualidade de dados e tecnologia. Minha experiência inclui construção e atualização de dashboards, saneamento de bases, elaboração de relatórios gerenciais, validação de informações e automação de rotinas.
+
+- 📊 Desenvolvimento de indicadores e dashboards para acompanhamento operacional e gerencial
+- 🔎 Extração, tratamento, validação e análise de dados
+- ⚙️ Automação de processos e redução de atividades manuais
+- 🧩 Integração de dados provenientes de planilhas, sistemas corporativos e ERPs
+- 📈 Foco em qualidade, rastreabilidade e geração de insights para o negócio
+- 🌱 Aprimoramento contínuo em engenharia de dados, analytics e visualização
+
+## Tecnologias e ferramentas
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TOTVS](https://img.shields.io/badge/TOTVS-005CA9?style=for-the-badge)
+
+</div>
+
+## Competências
+
+- Business Intelligence e análise de indicadores
+- Modelagem, limpeza e padronização de dados
+- Consultas SQL e análise exploratória
+- Automação com Python e planilhas
+- Power Query, Excel e visualização de dados
+- Relatórios executivos e apoio à tomada de decisão
+- Sistemas corporativos e processos operacionais
+
+## Projetos em destaque
+
+- [ConsultaSalasDema](https://github.com/Guihggs/ConsultaSalasDema) — solução web para consulta e organização de informações de salas.
+- [GestaoRenapsi](https://github.com/Guihggs/GestaoRenapsi) — dashboard para apoiar a gestão operacional de jovens.
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Guihggs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guihggs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 "O código limpo é simples e direto. Código limpo lê como prosa bem escrita." - Robert C. Martin
 
-![Snake animation](https://github.com/Guihggs/Guihggs/blob/output/github-contribution-grid-snake.svg)
-
-⭐️ From [Guihggs](https://github.com/Guihggs)
+### Dados confiáveis, processos eficientes e decisões melhores.
 
 </div>
